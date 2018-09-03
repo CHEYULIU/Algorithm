@@ -37,7 +37,8 @@ Undoubtedly, there are several ways to do the clustering, but after I considered
   
 * A3: Make a brief conclusion  
 
-As we can see in the following, the result of each classification (the first classification with 4 clusters and the second classification with 2 clusters) demonstrates a similiar characteristic, which is that they are devided vertically along x-axis. Because the x-axis represents the first component and y-axis represents the second component, the cluster that is far away y-axis means that it it hard to be explained by the second component.
+As we can see in the following, the result of each classification (the first classification with 4 clusters and the second classification with 2 clusters) demonstrates a similiar characteristic, which is that they are devided vertically along x-axis. Because the x-axis represents the first component and y-axis represents the second component, the cluster that is far away y-axis means that it it hard to be explained by the second component.  
+  
 ![png](output_7_0.png)  
 
 
